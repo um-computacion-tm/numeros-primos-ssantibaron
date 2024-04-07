@@ -1,1 +1,1 @@
-archivo de números primos cargado
+Programa que permite verificar si un número es primo o no.
